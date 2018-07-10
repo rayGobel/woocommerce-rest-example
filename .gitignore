@@ -1,0 +1,8 @@
+# Unrelated folder
+/images
+
+# MacOS
+.DS_Store
+
+# Creds
+secret.json
